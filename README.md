@@ -1,6 +1,7 @@
 # Tableau_citibike
 Analysis on Citi bike data for July and August 2013
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Spring_Lafayette_citibike_opening_jeh.jpg/250px-Spring_Lafayette_citibike_opening_jeh.jpg
+
+![]
 
 
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
