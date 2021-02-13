@@ -20,3 +20,7 @@ Inferences from the Analysis:-
 
 4.As from the charts, it is noted that Males used it more than the females and young used it more than over 50's.
 
+# Hello world
+![Citibike_img](https://en.wikipedia.org/wiki/File:Spring_Lafayette_citibike_opening_jeh.jpg)
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
